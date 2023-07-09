@@ -14,13 +14,13 @@ Anaconda\
 Jupyter\
 Internet Browser\
 MySql Server\
-MySql Client\
+MySql Client
 
 ## Extra Libraries/ Packages
 Some libraries are to be were used in to provide allow extra functionalities/connectivity to juypter in other to aid the analysis.
 Mysql connector \
 Text Blob\
-seaborn\
+seaborn
 
 ## Steps
 Note- Step 1-5 is needed just once, you can ignore step 1-5 if you have the libraries installed already.\ Install and Launch anaconda\
