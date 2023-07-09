@@ -1,7 +1,8 @@
-### Event Conference Data Analysis
+### Event Conference Data Analysis  - My interview Demonstration code sample
 This work anaylse the database of bookMeIn conference moving to virtual conferencing from the physical conference approach. I used pyhton programming language in analysing the available data, creating a visualization and giving suggestion according to my results.
 
 ### Project Structure
+For interviewer's clearity, i have structured this code into two sub directories:
 python - Contains python code in .py extension\
 jupyter_notebook -  Contains .ipynb extension with result snapshot below
 
@@ -23,7 +24,8 @@ Text Blob\
 seaborn
 
 ## Steps
-Note- Step 1-5 is needed just once, you can ignore step 1-5 if you have the libraries installed already.\ Install and Launch anaconda\
+Note- Step 1-5 is needed just once, you can ignore step 1-5 if you have the libraries installed already.\
+1. Install and Launch anaconda\
 2. Launch Juyter notebook from anaconda dashboard\
 3. On jupyter dashboard, browse the directory to the source file\
 4. In the source directory, you’ll see a new button allowing you to create new python 3 workspace\
@@ -34,5 +36,5 @@ pip install seaborn\
 Close the workspace to return to the jupyter dashboard \
 6. Locate the directory and open the project files named question1-7. 
 Note: 
-i. Remember to update the database connection (root, username, password).
-Ii Use the Run option or Shift + Enter to run each file
+i.  I can provide the database file on request. I made this for interview demostration.
+ii Use the Run option or Shift + Enter to run each file
